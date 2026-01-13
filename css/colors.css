@@ -6,12 +6,15 @@ body {
 
 @font-face {
     font-family: "Elterritorio";
-    src: url(/home/plasma/plasma2/mad_hacker/gfagadf.otf);
+    src: url("../fonts/gfagadf.otf");
 }
+
 @font-face {
     font-family: "bitty";
-    src: url(/home/plasma/plasma2/modern_dos/ModernDOS8x8.ttf);
+    src: url("../fonts/ModernDOS8x8.ttf");
 }
+
+
 h1 {
     font-family: "Elterritorio";
     color: rgb(255, 0, 0);
